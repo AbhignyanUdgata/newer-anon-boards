@@ -48,7 +48,7 @@ anon-boards/
             └── moderation.ts         # ⭐ Mod review, remove, dismiss
 ```
 
-Files marked ⭐ are the ones you'll most likely want to edit.
+Files marked ⭐ are the ones i can edit.
 
 ---
 
